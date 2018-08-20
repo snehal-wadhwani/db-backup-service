@@ -1,0 +1,25 @@
+{
+  "name": "db-backup-service",
+  "version": "1.0.0",
+  "description": "Takes care of DB backups for your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehal-wadhwani/db-backup-service.git"
+  },
+  "keywords": [
+    "db",
+    "backup",
+    "db",
+    "restore"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehal-wadhwani/db-backup-service/issues"
+  },
+  "homepage": "https://github.com/snehal-wadhwani/db-backup-service#readme"
+}
